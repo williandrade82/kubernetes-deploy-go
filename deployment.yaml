@@ -51,7 +51,7 @@ metadata:
     allow.http: "false"
 spec:
   rules:
-  - host: go.rancher.williandrade.dev.br
+  - host: go.rancher.willandrade.dev.br
     http:
       paths:
         - path: /
